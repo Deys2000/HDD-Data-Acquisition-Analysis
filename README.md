@@ -4,3 +4,17 @@ Used Windows CMD to acquire comprehensive set of directories and files from loca
 ## Graph 1
 ![image](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/1-UsersData.PNG)
 
+## Graph 2
+![image2](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/2-FileDepth.PNG)
+
+## Graph 3
+![image3](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/3-YearOfCreation.PNG)
+
+## Graph 4
+![image4](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/4-DesktopDirectories.PNG)
+
+## Graph 5
+![image5](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/5-GreaterThanFiles.PNG)
+
+## Graph 6
+![image6](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/6-Files%20between%202%20Dates.PNG)
