@@ -1,0 +1,519 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C1A-8CED
+
+ Directory of C:\Users\aquadri\Desktop\Programing
+
+03/28/2019  02:57 PM    <DIR>          .
+03/28/2019  02:57 PM    <DIR>          ..
+03/28/2019  03:03 PM    <DIR>          Projects
+01/27/2019  02:30 PM    <DIR>          Android Studio
+03/28/2019  05:42 PM                 0 commandlineProject.txt
+11/09/2017  12:28 AM              1017 Eclipse Java Oxygen.lnk
+07/03/2017  02:37 PM    <DIR>          HTML 
+06/13/2017  10:05 AM    <DIR>          npp.7.3.3.bin.minimalist
+03/19/2019  12:13 PM    <DIR>          Python H
+08/06/2017  03:01 PM    <DIR>          Python 
+06/02/2018  06:20 PM    <DIR>          R H
+03/27/2017  06:42 PM              1070 R i386 3.3.1.lnk
+10/24/2016  08:38 PM              1287 Tableau Public 10.0.lnk
+02/18/2019  02:29 PM              1301 Tableau Public 2019.1.lnk
+02/13/2015  05:21 PM    <DIR>          TicTacToe
+               5 File(s)           4675 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Projects
+
+03/28/2019  03:03 PM    <DIR>          .
+03/28/2019  03:03 PM    <DIR>          ..
+03/28/2019  01:19 PM             25369 commandlineProjectDuplicate.txt
+03/28/2019  05:39 PM             27354 commandlineProjectDuplicateConverted
+03/28/2019  05:39 PM               690 TextToCsvConverter.py
+               3 File(s)          53413 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Android Studio
+
+01/27/2019  02:30 PM    <DIR>          .
+01/27/2019  02:30 PM    <DIR>          ..
+11/24/2018  03:15 PM    <DIR>          .idea
+12/29/2018  01:38 PM    <DIR>          Persistance - Publish
+01/27/2019  02:30 PM    <DIR>          pics
+12/29/2018  12:55 PM    <DIR>          Seed-publish
+12/15/2018  08:45 PM    <DIR>          uTube Tutorial - Bill Buttersfeild
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Android Studio\.idea
+
+11/24/2018  03:15 PM    <DIR>          .
+11/24/2018  03:15 PM    <DIR>          ..
+11/24/2018  03:08 PM                11 .name
+11/24/2018  03:08 PM              2092 misc.xml
+11/24/2018  03:15 PM             13998 workspace.xml
+               3 File(s)          16101 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Android Studio\Persistance - Publish
+
+12/29/2018  01:38 PM    <DIR>          .
+12/29/2018  01:38 PM    <DIR>          ..
+12/29/2018  01:38 PM              2068 Persistance-Publish.jks
+               1 File(s)           2068 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Android Studio\pics
+
+01/27/2019  02:30 PM    <DIR>          .
+01/27/2019  02:30 PM    <DIR>          ..
+12/17/2018  01:29 PM             29609 5560-Mouse-grey_grande.jpeg
+12/29/2018  12:28 PM            180063 an_alternative_icon_for_singer_song_reader_by_quentilli-da9hmog.png
+12/29/2018  12:30 PM            214364 globe-life-park-the-home-field-of-the-texas-rangers-major-league-baseball-team-1-1024.jpg
+12/29/2018  12:27 PM              7042 images.jpg
+12/29/2018  01:50 PM            553908 Mulfract.png
+12/29/2018  01:49 PM             45640 multiplication-27155_960_720.png
+12/29/2018  01:54 PM            170594 persist pic.jpg
+               7 File(s)        1201220 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Android Studio\Seed-publish
+
+12/29/2018  12:55 PM    <DIR>          .
+12/29/2018  12:55 PM    <DIR>          ..
+12/29/2018  12:55 PM              2068 Seed-Publish.jks
+               1 File(s)           2068 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Android Studio\uTube Tutorial - Bill Buttersfeild
+
+12/15/2018  08:45 PM    <DIR>          .
+12/15/2018  08:45 PM    <DIR>          ..
+11/30/2018  10:01 AM              1286 MyFirstApp.lnk
+11/30/2018  10:02 AM              1295 MySecondApp.lnk
+11/30/2018  10:02 AM              1286 MyThirdApp.lnk
+               3 File(s)           3867 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\HTML 
+
+07/03/2017  02:37 PM    <DIR>          .
+07/03/2017  02:37 PM    <DIR>          ..
+06/13/2017  04:53 PM              3311 aadils project.htm
+07/03/2017  02:37 PM               335 index.html
+06/13/2017  04:47 PM              1747 index2.html
+06/13/2017  01:01 PM               117 index2.php
+07/03/2017  01:07 PM              6469 index4.html
+07/03/2017  01:22 PM             73156 index4.txt
+07/03/2017  02:04 PM               193 index5.html
+06/13/2017  05:16 PM    <DIR>          programming - aadils project
+06/13/2017  05:15 PM             96880 programming - aadils project.zip
+06/18/2017  02:59 AM              3548 projectaadil.mht
+06/14/2017  01:39 PM                52 style3.css
+06/13/2017  12:17 PM            696002 WIKI.png
+              11 File(s)         881810 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\HTML \programming - aadils project
+
+06/13/2017  05:16 PM    <DIR>          .
+06/13/2017  05:16 PM    <DIR>          ..
+06/13/2017  05:16 PM    <DIR>          resources
+06/13/2017  03:14 PM              3873 Sheet1.html
+               1 File(s)           3873 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\HTML \programming - aadils project\resources
+
+06/13/2017  05:16 PM    <DIR>          .
+06/13/2017  05:16 PM    <DIR>          ..
+06/13/2017  03:14 PM            600036 sheet.css
+               1 File(s)         600036 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\npp.7.3.3.bin.minimalist
+
+06/13/2017  10:05 AM    <DIR>          .
+06/13/2017  10:05 AM    <DIR>          ..
+07/03/2017  02:37 PM    <DIR>          backup
+03/07/2017  10:34 PM               982 change.log
+07/03/2017  02:37 PM              5472 config.xml
+09/26/2016  12:37 PM              3596 contextMenu.xml
+05/15/2015  05:36 PM                 0 doLocalConf.xml
+03/02/2017  09:58 PM            281013 langs.model.xml
+03/02/2017  09:58 PM            281013 langs.xml
+01/11/2016  06:24 PM             16885 license.txt
+03/07/2017  10:42 PM           2315952 notepad++.exe
+06/13/2017  09:48 AM           1186037 npp.7.3.3.bin.minimalist.7z
+01/19/2017  04:26 AM              1450 readme.txt
+03/07/2017  10:42 PM           1052848 SciLexer.dll
+07/03/2017  02:37 PM               695 session.xml
+08/28/2016  05:11 PM              1581 shortcuts.xml
+03/02/2017  09:58 PM            115128 stylers.model.xml
+03/02/2017  09:58 PM            115128 stylers.xml
+              15 File(s)        5377780 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\npp.7.3.3.bin.minimalist\backup
+
+07/03/2017  02:37 PM    <DIR>          .
+07/03/2017  02:37 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python 
+
+03/19/2019  12:13 PM    <DIR>          .
+03/19/2019  12:13 PM    <DIR>          ..
+06/02/2018  05:04 PM    <DIR>          1 - Python 4 Kids
+06/02/2018  06:22 PM    <DIR>          2 - Python Math
+12/22/2018  05:40 PM    <DIR>          3 -EulerProject
+03/23/2019  04:29 PM    <DIR>          4- Udemy Course
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids
+
+06/02/2018  05:04 PM    <DIR>          .
+06/02/2018  05:04 PM    <DIR>          ..
+05/29/2018  06:06 PM    <DIR>          1-3_basics
+05/30/2018  01:18 PM    <DIR>          11-14 loops
+05/30/2018  02:05 PM    <DIR>          15-17 functions
+05/30/2018  03:23 PM    <DIR>          18-19 Class and Object
+05/30/2018  05:15 PM    <DIR>          20-22 Built in functions
+06/01/2018  05:09 PM    <DIR>          23 -24 More built in functions and modules
+06/01/2018  06:01 PM    <DIR>          25-28 TurtleIntermediateGraphics
+06/02/2018  03:07 PM    <DIR>          28-30 Tkinter module graphics
+06/02/2018  03:13 PM    <DIR>          31-35 Bounce Game
+05/29/2018  06:06 PM    <DIR>          4-6_TurtleModuleIntro
+05/29/2018  06:34 PM    <DIR>          7-10 if's and casting
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\1-3_basics
+
+05/29/2018  06:06 PM    <DIR>          .
+05/29/2018  06:06 PM    <DIR>          ..
+05/29/2018  05:33 PM               343 counting_combatants.py
+05/29/2018  05:25 PM               264 favorite_lists.py
+05/29/2018  05:37 PM               207 greeting_concatination.py
+               3 File(s)            814 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\11-14 loops
+
+05/30/2018  01:18 PM    <DIR>          .
+05/30/2018  01:18 PM    <DIR>          ..
+05/29/2018  10:20 PM               193 breakingALoop.py
+05/30/2018  01:03 PM               237 for_and_if_together.py
+05/30/2018  01:23 PM               354 loop_multiplying.py
+05/30/2018  01:10 PM               250 traversingArray_Loop.py
+               4 File(s)           1034 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\15-17 functions
+
+05/30/2018  02:05 PM    <DIR>          .
+05/30/2018  02:05 PM    <DIR>          ..
+05/30/2018  01:52 PM               319 weight_function.py
+05/30/2018  01:59 PM               375 weight_function2.0.py
+05/30/2018  02:10 PM               640 weight_function3.0.py
+               3 File(s)           1334 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\18-19 Class and Object
+
+05/30/2018  03:23 PM    <DIR>          .
+05/30/2018  03:23 PM    <DIR>          ..
+05/30/2018  03:23 PM               680 multipleObjects.py
+05/30/2018  03:15 PM               471 Object_method.py
+               2 File(s)           1151 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python Hashir\1 - Python 4 Kids\20-22 Built in functions
+
+05/30/2018  05:15 PM    <DIR>          .
+05/30/2018  05:15 PM    <DIR>          ..
+05/30/2018  04:24 PM               169 absFunction.py
+05/30/2018  05:44 PM               308 dir_and_help functions.py
+05/30/2018  05:43 PM               694 openFunction.py
+               3 File(s)           1171 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\23 -24 More built in functions and modules
+
+06/01/2018  05:09 PM    <DIR>          .
+06/01/2018  05:09 PM    <DIR>          ..
+06/01/2018  04:39 PM               533 CopyModule.py
+06/01/2018  05:09 PM                66 favorites.dat
+06/01/2018  05:12 PM               423 PickleModule.py
+               3 File(s)           1022 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\25-28 TurtleIntermediateGraphics
+
+06/01/2018  06:01 PM    <DIR>          .
+06/01/2018  06:01 PM    <DIR>          ..
+06/01/2018  05:33 PM               403 Hexagon.py
+06/01/2018  06:10 PM               471 Star.py
+06/01/2018  05:56 PM               635 Sunflower.py
+               3 File(s)           1509 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\28-30 Tkinter module graphics
+
+06/02/2018  03:07 PM    <DIR>          .
+06/02/2018  03:07 PM    <DIR>          ..
+06/01/2018  07:13 PM               690 animationTriangle.py
+06/02/2018  03:11 PM               434 pictureDisplay.py
+06/01/2018  07:05 PM               818 randomTriangles.py
+               3 File(s)           1942 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\31-35 Bounce Game
+
+06/02/2018  03:13 PM    <DIR>          .
+06/02/2018  03:13 PM    <DIR>          ..
+06/02/2018  04:59 PM              3452 OriginalGame.py
+               1 File(s)           3452 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\4-6_TurtleModuleIntro
+
+05/29/2018  06:06 PM    <DIR>          .
+05/29/2018  06:06 PM    <DIR>          ..
+05/29/2018  06:06 PM               577 openbox_drawing.py
+05/29/2018  05:48 PM               259 rectangle_drawing.py
+05/29/2018  05:59 PM               232 triangle_drawing.py
+               3 File(s)           1068 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \1 - Python 4 Kids\7-10 if's and casting
+
+05/29/2018  06:34 PM    <DIR>          .
+05/29/2018  06:34 PM    <DIR>          ..
+05/29/2018  06:30 PM               211 ANDcondition.py
+05/29/2018  06:35 PM               307 ELIFstatements.py
+05/29/2018  06:23 PM               231 ifstatement.py
+05/29/2018  06:26 PM               194 ORcondition.py
+               4 File(s)            943 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \2 - Python Math
+
+06/02/2018  06:22 PM    <DIR>          .
+06/02/2018  06:22 PM    <DIR>          ..
+06/02/2018  07:44 PM    <DIR>          1-4 Working with numbers
+06/02/2018  06:20 PM    <DIR>          5-9 Visual Data with Graphs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \2 - Python Math\1-4 Working with numbers
+
+06/02/2018  07:44 PM    <DIR>          .
+06/02/2018  07:44 PM    <DIR>          ..
+06/02/2018  06:59 PM               594 Even-OddVendingMachine.py
+06/02/2018  07:46 PM               893 FractionCalculator.py
+06/02/2018  06:58 PM               561 MultiplicationTableGenerator.py
+06/02/2018  07:31 PM              1298 UnitConverter.py
+               4 File(s)           3346 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \2 - Python Math\5-9 Visual Data with Graphs
+
+06/02/2018  06:20 PM    <DIR>          .
+06/02/2018  06:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \3 -EulerProject
+
+12/22/2018  05:40 PM    <DIR>          .
+12/22/2018  05:40 PM    <DIR>          ..
+06/06/2018  12:01 PM               120 1 - Multiples of 3 and 5.py
+06/06/2018  10:37 PM               334 10 - Summation of Primes.py
+06/07/2018  12:23 AM              3033 11- Largest product in a grid.py
+12/12/2018  04:27 PM              1430 12 - Highly Divisible Triangular Number.py
+06/07/2018  02:15 AM              7180 13 - Large Sum.py
+12/12/2018  04:35 PM               565 14 - Longest Collatz Sequence.py
+12/12/2018  06:04 PM               508 15 - Lattice Paths.py
+06/07/2018  06:46 AM               116 16 - Power Digit Sum.py
+12/22/2018  05:14 PM              1540 17 - Number Letter Counts.py
+06/07/2018  02:14 PM              1345 18 - Maximum Path Sum 1.py
+12/22/2018  05:39 PM               668 19 - Counting Sundays.py
+06/06/2018  12:44 PM               162 2 - Even Fibonacci Numbers.py
+06/07/2018  02:25 PM               331 20 - Factorial Digit Sum.py
+06/07/2018  04:01 PM               776 21 - Amicable Numbers.py
+12/22/2018  06:42 PM               769 22 - (incomp)Names Scores.py
+12/22/2018  07:09 PM              1652 23 - (incomp)Non-Abundant Sums.py
+06/07/2018  06:45 PM               372 24 - (incomp)lexicographic permutations.py
+06/07/2018  06:51 PM               177 25 - 1000-Digit Fibonacci Number.py
+06/07/2018  07:07 PM               169 26 - (incomp)Reciprocal Cycles.py
+06/07/2018  08:09 PM               668 27 - (incomp)Quadratic Primes.py
+06/07/2018  08:48 PM               252 28 - Number Spiral Diagonals.py
+06/08/2018  05:56 PM               335 29 - Distinct Powers.py
+12/12/2018  03:21 PM              1319 3 - Largest Prime Factor.py
+06/08/2018  06:21 PM               333 30 - Digit Fifth Powers.py
+06/08/2018  06:45 PM               822 31 - Coin Sums.py
+06/09/2018  04:27 AM                 0 32 - (incomp)Pandigital Products.py
+06/08/2018  07:18 PM              1135 33 - Digit Cancelling Fractions.py
+06/08/2018  07:30 PM               469 34 - Digit Factorials.py
+06/08/2018  07:47 PM               564 35 -(incomp) Circular Primes.py
+06/08/2018  08:03 PM               374 36 - Double-Base Palindromes.py
+06/09/2018  02:45 AM              1020 37 - Truncatable Primes.py
+06/09/2018  04:00 AM               497 38 - (incomp)Pandigital Multiples.py
+06/09/2018  04:02 AM               497 39 - Integer-Right Triangles.py
+06/06/2018  03:40 PM               389 4 - Largest Palindrome Product.py
+06/09/2018  04:19 AM               362 40 - Champernowne's Constant.py
+06/09/2018  04:25 AM                 0 41 = (incomp)Pandigital Prime.py
+06/09/2018  04:29 AM                 0 42 - (incomp)Coded Triangle Numbers.py
+12/01/2018  01:39 AM              1516 43 - Sub - String Divisibility.py
+12/01/2018  12:38 PM               528 44 - Pentagonal Numbers.py
+12/01/2018  06:36 PM               358 45 - Triangular, Pentagonal and Hexagonal.py
+12/01/2018  06:47 PM               481 45 - Triangular, Pentagonal, Hexagonal.py
+12/01/2018  07:41 PM               902 46 - Goldbach's other Conjecture.py
+12/01/2018  07:42 PM                 0 47 - Distinct Primes Factors.py
+12/11/2018  10:25 PM               228 48 - Self Powers.py
+06/06/2018  06:53 PM               360 5 - Smallest Multiple.py
+06/06/2018  07:16 PM               165 6 - Sum Square Difference.py
+06/06/2018  07:22 PM               397 7 - 10001st Prime.py
+06/06/2018  08:05 PM              1403 8 - Largest Product in a Series.py
+06/06/2018  08:23 PM               320 9 - Special Pythagorean Triplet.py
+12/22/2018  06:08 PM             46447 names#22.txt
+              50 File(s)          83388 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python \4- Udemy Course
+
+03/23/2019  04:29 PM    <DIR>          .
+03/23/2019  04:29 PM    <DIR>          ..
+03/19/2019  12:45 PM              1186 Section3, Lecture 10 (relief style in tkinter).py
+03/19/2019  12:49 PM              1169 Section3, Lecture 11 (bitmap in tkinter).py
+03/19/2019  12:53 PM               629 Section3, Lecture 12 (cursor in tkinter).py
+03/19/2019  01:02 PM               816 Section3, Lecture 13 (tkinter Button Options Part1).py
+03/19/2019  01:07 PM               622 Section3, Lecture 14 (tkinter Button Options Part2).py
+03/19/2019  01:10 PM               683 Section3, Lecture 15 (how to create a function).py
+03/19/2019  01:16 PM               795 Section3, Lecture 16 (entry class in tkinter).py
+03/19/2019  01:20 PM              1042 Section3, Lecture 17(how to create two windows).py
+03/19/2019  01:26 PM               351 Section3, Lecture 18(slider).py
+03/19/2019  01:28 PM               351 Section3, Lecture 19(creating button and properties).py
+03/19/2019  12:19 PM               381 Section3, Lecture 5 (How to create a window).py
+03/19/2019  12:23 PM               413 Section3, Lecture 6 (labels and buttons in tkinter).py
+03/19/2019  12:24 PM               491 Section3, Lecture 7 (.place() vs .pack() in tkinter).py
+03/19/2019  12:38 PM               603 Section3, Lecture 8 (how to use .grid() in tkinter).py
+03/19/2019  12:41 PM               916 Section3, Lecture 9 (colors in tkinter).py
+03/21/2019  02:18 PM               730 Section4, Lecture 20(Radiobutton in tkinter).py
+03/21/2019  02:30 PM               570 Section4, Lecture 21(Label and Button).py
+03/21/2019  02:37 PM               536 Section4, Lecture 22(Entry Field in Tkinter).py
+03/22/2019  10:32 PM               604 Section4, Lecture 23(Frame).py
+03/22/2019  10:37 PM               566 Section4, Lecture 24(PanedWindow).py
+03/22/2019  10:38 PM               566 Section4, Lecture 25(Progressbar and Scale).py
+03/22/2019  11:02 PM               702 Section4, Lecture 26(Spinbox and Combox).py
+03/22/2019  11:16 PM               507 Section4, Lecture 27(Resize).py
+03/22/2019  11:22 PM               225 Section4, Lecture 28(Button with Photo).py
+03/22/2019  11:21 PM               299 Section4, Lecture 28(Shortcuts).py
+03/23/2019  12:24 AM               479 Section4, Lecture 29(Button with Photo).py
+03/23/2019  12:31 AM               428 Section4, Lecture 30(Notebook).py
+03/23/2019  12:34 AM               496 Section4, Lecture 31(Number and callback).py
+03/23/2019  12:39 AM               527 Section4, Lecture 32(Messagebox, Filedialog, Colorchooser).py
+03/23/2019  12:48 AM               506 Section4, Lecture 33(Counter Label).py
+03/23/2019  01:05 AM               881 Section5, Lecture 34(Project1.Feet to Meters).py
+03/23/2019  01:18 AM               773 Section6, Lecture 35(Project2.TextBoxWidget).py
+03/23/2019  01:26 AM              1199 Section6, Lecture 36(Project2.ComboBox).py
+03/23/2019  01:27 AM              1199 Section6, Lecture 37(Project2.CheckBox).py
+03/23/2019  01:31 AM              1379 Section6, Lecture 38(Project2.ScrollText).py
+03/23/2019  04:28 PM              1751 Section6, Lecture 39(Project2.Label_in_a_Frame).py
+03/23/2019  05:51 PM              2205 Section6, Lecture 40(Project2.Menubar).py
+              37 File(s)          27576 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\Python 
+
+08/06/2017  03:01 PM    <DIR>          .
+08/06/2017  03:01 PM    <DIR>          ..
+08/05/2017  09:18 PM               309 hello.py
+               1 File(s)            309 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\R 
+
+06/02/2018  06:20 PM    <DIR>          .
+06/02/2018  06:20 PM    <DIR>          ..
+06/02/2018  06:20 PM    <DIR>          R - The student companion book
+08/03/2017  04:13 PM               120 types of graphs in R.txt
+               1 File(s)            120 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\R - The student companion book
+
+06/02/2018  06:20 PM    <DIR>          .
+06/02/2018  06:20 PM    <DIR>          ..
+08/03/2017  04:37 PM    <DIR>          chapter 1 computational challenges
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\R - The student companion book\chapter 1 computational challenges
+
+08/03/2017  04:37 PM    <DIR>          .
+08/03/2017  04:37 PM    <DIR>          ..
+08/03/2017  03:48 PM               199 1.1-algebraic equations
+08/03/2017  04:03 PM               241 1.2 - investment equation graph
+08/03/2017  04:13 PM               358 1.3 - population line graph
+08/03/2017  04:32 PM               371 1.4 - physics projectile graphs
+08/03/2017  04:43 PM               150 1.5 - physics gravitation graph
+               5 File(s)           1319 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe
+
+02/13/2015  05:21 PM    <DIR>          .
+02/13/2015  05:21 PM    <DIR>          ..
+02/13/2015  05:23 PM               343 .classpath
+02/13/2015  05:09 PM               385 .project
+02/13/2015  05:09 PM    <DIR>          .settings
+02/13/2015  05:23 PM    <DIR>          bin
+02/13/2015  05:22 PM    <DIR>          res
+02/13/2015  05:09 PM    <DIR>          src
+               2 File(s)            728 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\.settings
+
+02/13/2015  05:09 PM    <DIR>          .
+02/13/2015  05:09 PM    <DIR>          ..
+02/13/2015  05:09 PM               598 org.eclipse.jdt.core.prefs
+               1 File(s)            598 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\bin
+
+02/13/2015  05:23 PM    <DIR>          .
+02/13/2015  05:23 PM    <DIR>          ..
+02/13/2015  05:23 PM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\bin\com
+
+02/13/2015  05:23 PM    <DIR>          .
+02/13/2015  05:23 PM    <DIR>          ..
+02/13/2015  05:23 PM    <DIR>          mrwayfarout
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\bin\com\mrwayfarout
+
+02/13/2015  05:23 PM    <DIR>          .
+02/13/2015  05:23 PM    <DIR>          ..
+02/13/2015  05:23 PM    <DIR>          tictactoe
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\bin\com\mrwayfarout\tictactoe
+
+02/13/2015  05:23 PM    <DIR>          .
+02/13/2015  05:23 PM    <DIR>          ..
+02/13/2015  06:24 PM              3130 TicTacToe$Painter.class
+02/13/2015  06:24 PM             10943 TicTacToe.class
+               2 File(s)          14073 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\res
+
+02/13/2015  05:22 PM    <DIR>          .
+02/13/2015  05:22 PM    <DIR>          ..
+12/08/2014  08:21 PM              2728 blueCircle.png
+12/08/2014  08:22 PM              1887 blueX.png
+12/08/2014  08:16 PM              2850 board.png
+12/08/2014  08:21 PM              2284 redCircle.png
+12/08/2014  08:18 PM              1491 redX.png
+               5 File(s)          11240 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\src
+
+02/13/2015  05:09 PM    <DIR>          .
+02/13/2015  05:09 PM    <DIR>          ..
+02/13/2015  05:09 PM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\src\com
+
+02/13/2015  05:09 PM    <DIR>          .
+02/13/2015  05:09 PM    <DIR>          ..
+02/13/2015  05:09 PM    <DIR>          mrwayfarout
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\src\com\mrwayfarout
+
+02/13/2015  05:09 PM    <DIR>          .
+02/13/2015  05:09 PM    <DIR>          ..
+02/13/2015  05:10 PM    <DIR>          tictactoe
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\aquadri\Desktop\Programing\TicTacToe\src\com\mrwayfarout\tictactoe
+
+02/13/2015  05:10 PM    <DIR>          .
+02/13/2015  05:10 PM    <DIR>          ..
+08/10/2018  07:08 AM             10833 TicTacToe.java
+               1 File(s)          10833 bytes
+
+     Total Files Listed:
+             192 File(s)        8315881 bytes
+             137 Dir(s)     67641946112 bytes free
