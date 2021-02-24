@@ -11,10 +11,10 @@ Used Windows CMD to acquire comprehensive set of directories and files from loca
 ![image3](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/3-YearOfCreation.PNG)
 
 ## Graph 4
-
+![image4](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/4-DesktopDirectories.PNG)
 
 ## Graph 5
-
+![image](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/5-GreaterThanFiles.PNG)
 
 ## Graph 6
 ![image6](https://github.com/Deys2000/HDD-Data-Acquisition-Analysis/blob/main/6-Files%20between%202%20Dates.PNG)
